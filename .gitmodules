@@ -1,0 +1,3 @@
+[submodule "fizzbuzz-kata"]
+	path = fizzbuzz-kata
+	url = https://github.com/Pragmatists/fizzbuzz-kata.git
