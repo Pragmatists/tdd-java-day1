@@ -1,3 +1,9 @@
 [submodule "fizzbuzz-kata"]
 	path = fizzbuzz-kata
 	url = https://github.com/Pragmatists/fizzbuzz-kata.git
+[submodule "snow-mocks-kata-java"]
+	path = snow-mocks-kata-java
+	url = https://github.com/Pragmatists/snow-mocks-kata-java.git
+[submodule "junit-kata"]
+	path = junit-kata
+	url = https://github.com/Pragmatists/junit-kata.git
